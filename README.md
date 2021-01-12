@@ -1,4 +1,4 @@
-# Cyber-Graffiti-Application
+# Street Gallery
 
 Cyber Graffiti is an AR application aiming at encouraging citizens to explore the mixed reality. The application development involves the AR Foundation plugin, the ARKit XR plugin, VFX plugin in Unity.
 
